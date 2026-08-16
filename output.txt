@@ -1,0 +1,20 @@
+===== DevOps Project 1 =====
+Linux & Command Line Basics
+
+Creating project directory...
+Creating directories...
+Creating file...
+
+File content:
+DevOps Project 1 - Linux Command Line Basics
+
+Project directory contents:
+backup
+files
+
+Files directory contents:
+info.txt
+
+Returning to parent directory...
+
+Project completed successfully!
