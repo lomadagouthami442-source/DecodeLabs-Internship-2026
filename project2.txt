@@ -1,0 +1,3 @@
+DevOps project2 
+Version control with Git 
+This project demonstrates Git Version Control and GitHub workflow
